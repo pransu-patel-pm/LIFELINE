@@ -1,2 +1,2 @@
-# PROJECT2
-LIFELINE
+# LIFELINE
+LIFELINE -- ambulance tracking app
